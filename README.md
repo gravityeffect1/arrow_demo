@@ -60,6 +60,10 @@ Targeting the Spike protein of SARS-CoV-2:
 
 ![ARROW Streamlit App](screenshots/arrow_demo.png)
 
+## 📫 Contact
+Developed with ❤️ by Sara Sova
+MS1 · UMF Carol Davila
+📧 Email: jaquesadit7@gmail.com
 ---
 
 ## ⚙️ Installation & Usage
@@ -88,7 +92,7 @@ pip install -r requirements.txt
 
 streamlit run streamlit_app.py
 
-🧬 Requirements
+! Requirements
  -Python ≥ 3.9
 
  -Streamlit
@@ -101,7 +105,4 @@ Install with:
 
 pip install streamlit biopython pandas
 
-📫 Contact
-Developed with ❤️ by Sara Sova
-MS1 · UMF Carol Davila
-📧 Email: jaquesadit7@gmail.com
+
