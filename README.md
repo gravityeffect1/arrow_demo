@@ -1,19 +1,19 @@
-# 🏹 ARROW: Automated RNA Recognition and Optimization Workflow
+#  ARROW: Automated RNA Recognition and Optimization Workflow
 
 **A CRISPR-Cas13 gRNA design platform targeting SARS-CoV-2**  
-Developed with 🧠 science, 💻 code, and 🧬 purpose.
+Developed with science,  code, and  purpose.
 
 ---
 
-## 📖 Overview
+## Overview
 
 ARROW is a computational tool designed to streamline the design of guide RNAs (gRNAs) for RNA-targeting CRISPR-Cas13 systems. It specifically targets the SARS-CoV-2 genome, empowering researchers to define regions of interest (e.g., the spike protein), filter gRNAs based on customizable design criteria, and export high-confidence candidates for downstream experimental use.
 
-Whether you're developing diagnostic assays, gene silencing strategies, or just nerding out in virology and molecular biology — ARROW is your starting point.
+Whether you're developing diagnostic assays, gene silencing strategies, or just nerding out in virology and molecular biology, ARROW is your starting point.
 
 ---
 
-## 🧠 Scientific Background
+## Scientific Background
 
 The COVID-19 pandemic underscored the global need for programmable, adaptive antiviral technologies. Among them, CRISPR-Cas13 stands out for its ability to cleave RNA sequences with high specificity. However, the efficacy of Cas13-based interventions hinges critically on the design of optimal guide RNAs.
 
@@ -26,22 +26,22 @@ ARROW addresses this challenge by:
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔬 Live genomic retrieval from NCBI using accession numbers
-- 🎯 Region-specific targeting (ideal for the Spike protein or any ORF)
-- 🧪 Customizable filtering:
+-  Live genomic retrieval from NCBI using accession numbers
+-  Region-specific targeting (ideal for the Spike protein or any ORF)
+-  Customizable filtering:
   - Guide length (20–40 nt)
   - GC content range
   - Max homopolymer length (e.g., AAAA)
-- 🔄 Randomized output to avoid bias
-- 📊 Data output includes nucleotide position, GC content, and inferred amino acid frame
-- 📥 Downloadable CSV for lab-ready documentation
-- 🖥️ Interactive web app powered by [Streamlit](https://streamlit.io)
+-  Randomized output to avoid bias
+-  Data output includes nucleotide position, GC content, and inferred amino acid frame
+-  Downloadable CSV for lab-ready documentation
+-  Interactive web app powered by [Streamlit](https://streamlit.io)
 
 ---
 
-## 🧪 Example Use Case
+## Example Use Case
 
 Targeting the Spike protein of SARS-CoV-2:
 
@@ -59,7 +59,7 @@ Targeting the Spike protein of SARS-CoV-2:
 
 ![ARROW Streamlit App](screenshots)
 
-## 📫 Contact
+##  Contact
 Developed with ❤️ by Sara Sova
 MS1 · UMF Carol Davila
 📧 Email: jaquesadit7@gmail.com
@@ -67,7 +67,7 @@ MS1 · UMF Carol Davila
 
 ## ⚙️ Installation & Usage
 
-### ▶️ Run Locally
+### ▶ Run Locally
 
 1. Clone the repository:
 ```bash
