@@ -56,9 +56,8 @@ Targeting the Spike protein of SARS-CoV-2:
 
 ## 📸 Screenshots
 
-> _(Insert a `screenshots/` folder in your repo and upload screenshots)_
 
-![ARROW Streamlit App](screenshots/arrow_demo.png)
+![ARROW Streamlit App](screenshots/arrow_demo)
 
 ## 📫 Contact
 Developed with ❤️ by Sara Sova
