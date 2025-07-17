@@ -1,19 +1,11 @@
-# 🎈 Blank app template
+ ARROW 🏹
+Automated RNA Recognition & Optimization Workflow
 
-A simple Streamlit app template for you to modify!
+## ⚙️ Installation & Running
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/arrow.git
+cd arrow
+2. Install the dependencies:
+pip install -r requirements.txt
