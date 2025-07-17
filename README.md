@@ -57,7 +57,7 @@ Targeting the Spike protein of SARS-CoV-2:
 ## 📸 Screenshots
 
 
-![ARROW Streamlit App](screenshots/arrow_demo)
+![ARROW Streamlit App](screenshots)
 
 ## 📫 Contact
 Developed with ❤️ by Sara Sova
