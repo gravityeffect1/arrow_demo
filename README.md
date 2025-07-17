@@ -53,6 +53,8 @@ Targeting the Spike protein of SARS-CoV-2:
 - Output: `50` guide RNAs, ready for synthesis or modeling
 
 ---
+## Why ARROW?
+Unlike most existing tools designed for DNA-targeting CRISPR systems (e.g., Cas9), ARROW is optimized specifically for Cas13-based RNA targeting. It enables direct retrieval of SARS-CoV-2 genomic data from NCBI, supports precise region selection (e.g., Spike gene), and applies customizable filters for guide length, GC content, and homopolymer avoidance. Built with transparency and reproducibility in mind, ARROW is an open-source, modular platform tailored to virological applications and rapid prototyping in RNA-guided CRISPR research.
 
 ## 📸 Screenshots
 
