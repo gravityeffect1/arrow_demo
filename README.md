@@ -66,6 +66,11 @@ Developed with ❤️ by Sara Sova
 MS1 · UMF Carol Davila
 📧 Email: jaquesadit7@gmail.com
 ---
+##  Built With
+
+- [Streamlit](https://streamlit.io) – Interactive Python apps for data science and bioinformatics
+- [Biopython](https://biopython.org) – Bioinformatics library for NCBI integration
+- [pandas](https://pandas.pydata.org) – Data analysis and tabular guide export
 
 ## ⚙️ Installation & Usage
 
@@ -105,5 +110,8 @@ streamlit run streamlit_app.py
 Install with:
 
 pip install streamlit biopython pandas
+
+
+
 
 
